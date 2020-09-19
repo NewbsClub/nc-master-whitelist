@@ -1,0 +1,7 @@
+name: NC Whitelist
+version: ${project.version}
+main: club.newbs.ncwhitelist.NCWhitelist
+api-version: 1.15
+authors: [ DylanDeNewb ]
+description: Newbs.club Whitelist
+website: www.newbs.club
